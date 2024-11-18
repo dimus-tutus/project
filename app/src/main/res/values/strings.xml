@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AEK</string>
+    <string name="home_team">Home Team</string>
+    <string name="away_team">Away Team</string>
+    <string name="result">-</string>
+    <string name="org">Org</string>
+    <string name="org_num">Org Num</string>
+    <string name="channel">Channel</string>
+    <string name="date">Date</string>
+    <string name="dayTime">DayTime</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="program">ΠΡΟΓΡΑΜΜΑ</string>
+    <string name="table">ΒΑΘΜΟΛΟΓΙΑ</string>
+    <string name="results">ΑΠΟΤΕΛΕΣΜΑΤΑ</string>
+    <string name="score_home">Score Home</string>
+    <string name="score_away">Score Away</string>
+    <string name="separator"> - </string>
+    <string name="position_points">P</string>
+    <string name="position_gr">Θ</string>
+    <string name="points_gr">Β</string>
+    <string name="team">Team</string>
+    <string name="team_gr">ΟΜΑΔΑ</string>
+    <string name="matches">NM</string>
+    <string name="matches_gr">ΑΓ</string>
+    <string name="wins">W</string>
+    <string name="draws">D</string>
+    <string name="loses">L</string>
+    <string name="wins_gr">"Ν / "</string>
+    <string name="draws_gr">"Ι / "</string>
+    <string name="loses_gr">Η</string>
+    <string name="goals_for">GF</string>
+    <string name="goals_against">GA</string>
+    <string name="goals">ΓΚΟΛ</string>
+</resources>
